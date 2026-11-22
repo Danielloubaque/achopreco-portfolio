@@ -40,7 +40,7 @@ Revalidar atualização de catálogo, comparação de produtos e agendamentos; a
 Este documento foi escrito para publicação, sem copiar histórico, credenciais ou dados comerciais privados. Os originais privados permanecem privados. Auditoria documental em 14/11/2026; não constitui garantia de ausência de vulnerabilidades.
 
 ## Contato
-[Daniel no GitHub](https://github.com/Danielloubaque) · [LinkedIn](https://www.linkedin.com/in/daniel-loubaque-58443a240/) · [Vyntriva Tech](https://vyntriva-tech.bakedcharm.chatgpt.site)
+[Daniel no GitHub](https://github.com/Danielloubaque) · [LinkedIn](https://www.linkedin.com/in/daniel-loubaque-58443a240/) · [Vyntriva Tech](https://vyntriva-tech.onrender.com/)
 
 
 ## Captura real da página pública
