@@ -13,7 +13,7 @@ TypeScript, React, Node.js, Vite, Cloudflare Workers, Drizzle ORM, Tailwind CSS.
 Interface React → Worker Cloudflare → serviços de catálogo e persistência; scripts Node.js para processamento e validação.
 
 ## Funcionalidades
-Catálogo, busca e filtros; guias de compra; rotinas de reconciliação; integração de ofertas com Whapi.
+Catálogo, busca e filtros; guias de compra e ferramentas de cálculo; rotinas de reconciliação Shopee/Awin; compartilhamento individual de ofertas.
 
 ## Demonstração
 https://www.xn--achopreo-y0a.com.br/
@@ -25,13 +25,13 @@ As capturas devem mostrar páginas públicas, sem sessões, tokens ou dados de t
 Este repositório é um estudo de caso, sem código operacional. No projeto privado: Node.js >=22.13, pnpm; pnpm install e pnpm dev, com configuração privada de ambiente. Não executar deploy ou migrações durante avaliação de portfólio.
 
 ## Testes e limites de validação
-No projeto privado, há scripts tests/shopee-reconciliation.mjs e tests/whapi-publisher.mjs. Não executados nesta fase de documentação.
+No projeto privado, há scripts `tests/shopee-reconciliation.mjs`, `tests/catalog-cycle.mjs` e `tests/security-audit.mjs`. Não executados nesta fase de documentação.
 
 ## Desafios técnicos
 Manter catálogo consistente e impedir publicação de ofertas sem evidência suficiente.
 
 ## Soluções implementadas
-Existem testes de reconciliação, retenção de catálogo e publicador Whapi no código privado. A existência dos testes não comprova execução recente nem operação atual dos agendamentos.
+Existem testes de reconciliação, retenção de catálogo, segurança e SEO no código privado. O canal de ofertas do WhatsApp e a integração Whapi foram descontinuados permanentemente em 25/11/2026, mantendo-se o compartilhamento individual de ofertas pelo WhatsApp e o foco em SEO, tráfego orgânico, Instagram, Pinterest e AdSense.
 
 ## Próximas melhorias
 Revalidar atualização de catálogo, comparação de produtos e agendamentos; acompanhar integridade dos links.
